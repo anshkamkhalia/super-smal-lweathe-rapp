@@ -1,10 +1,11 @@
 import requests
 from flask import Flask, render_template
 import json
+from key import api_key
 
 app = Flask(__name__)
 
-API_KEY = "e331a316b91ebf8ee26e1f823e3a3aea"
+API_KEY = api_key
 
 @app.route("/")
 def index():
