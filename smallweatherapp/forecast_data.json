@@ -1,0 +1,27 @@
+[
+    {
+        "day": 1,
+        "avg_temp": 57.65375,
+        "condition": "clear sky"
+    },
+    {
+        "day": 2,
+        "avg_temp": 66.35625,
+        "condition": "overcast clouds"
+    },
+    {
+        "day": 3,
+        "avg_temp": 64.33125,
+        "condition": "overcast clouds"
+    },
+    {
+        "day": 4,
+        "avg_temp": 56.532500000000006,
+        "condition": "overcast clouds"
+    },
+    {
+        "day": 5,
+        "avg_temp": 60.396249999999995,
+        "condition": "light rain"
+    }
+]

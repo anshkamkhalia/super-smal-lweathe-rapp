@@ -1,0 +1,46 @@
+{
+    "coord": {
+        "lon": -74.4063,
+        "lat": 40.5169
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 54.46,
+        "feels_like": 51.35,
+        "temp_min": 51.48,
+        "temp_max": 57.88,
+        "pressure": 1022,
+        "humidity": 37,
+        "sea_level": 1022,
+        "grnd_level": 1019
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 3.44,
+        "deg": 276,
+        "gust": 4.63
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1744936553,
+    "sys": {
+        "type": 2,
+        "id": 2007488,
+        "country": "US",
+        "sunrise": 1744884933,
+        "sunset": 1744933096
+    },
+    "timezone": -14400,
+    "id": 5097529,
+    "name": "Edison",
+    "cod": 200
+}

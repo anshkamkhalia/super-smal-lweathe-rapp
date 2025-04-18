@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600&display=swap');
+
+body {
+    font-family: "Outfit", sans-serif;
+    padding: 20px;
+    background-color: rgb(40, 38, 54);
+}
+
+#title {
+    margin: 50px 100px 30px;
+    color: rgb(227, 251, 255);
+    font-size: 45px;
+    text-align: center;
+}
+
+.info_box {
+    background-color: rgb(65, 63, 77);
+    padding: 2rem;
+    margin: auto;
+    width: 70vw;
+    border-radius: 15px;
+    color: rgb(184, 178, 178);
+    font-size: 25px;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.weather_content {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.weather_details {
+    flex: 1;
+}
+
+#image {
+    width: 350px;
+    margin-left: 2rem;
+}
+
+.forecast_container {
+    display: flex;
+    justify-content: space-around;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.forecast_box {
+    background-color: rgb(84, 82, 97);
+    border-radius: 10px;
+    padding: 1rem;
+    text-align: center;
+    flex: 1;
+    min-width: 100px;
+    max-width: 120px;
+    box-shadow: 0px 2px 8px rgba(0,0,0,0.15);
+}
+
+.forecast_box img {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 0.5rem;
+}
+
+strong {
+    color: rgb(61, 141, 232);
+}
+
+u {
+    color: rgb(255, 149, 0);
+}
